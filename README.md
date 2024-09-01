@@ -35,7 +35,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 
 ## Configurations
 
-### । C Boilerplate ।
+###  C Boilerplate 
 
 **File**: `c.json`
 
@@ -57,7 +57,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-### । C++ Boilerplate ।
+###  C++ Boilerplate 
 
 **File**: `cpp.json`
 
@@ -80,7 +80,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-### । Java Boilerplate ।
+###  Java Boilerplate 
 
 **File**: `java.json`
 
@@ -100,7 +100,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-## 🛠 VS Code Extensions
+##  VS Code Extensions
 
 To enhance your development experience, consider installing the following Visual Studio Code extensions:
 
