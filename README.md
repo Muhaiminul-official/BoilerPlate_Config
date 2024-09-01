@@ -1,3 +1,6 @@
+
+---
+
 # Boilerplate Configurations
 
 This repository contains boilerplate configurations for various programming languages to help you quickly set up new projects.
@@ -9,7 +12,7 @@ This repository contains boilerplate configurations for various programming lang
 - [Usage](#usage)
 - [Configurations](#configurations)
   - [C Boilerplate](#c-boilerplate)
-  - [C++ Boilerplate](#c-boilerplate)
+  - [C++ Boilerplate](#cpp-boilerplate)
   - [Java Boilerplate](#java-boilerplate)
 - [VS Code Extensions](#vs-code-extensions)
 
@@ -19,7 +22,7 @@ This repository provides snippets for creating boilerplate code in C, C++, and J
 
 ## Installation
 
-To use these snippets, you'll need to add them to your Visual Studio Code snippets configuration. You can do this by following these steps:
+To use these snippets, you'll need to add them to your Visual Studio Code snippets configuration. Follow these steps:
 
 1. Open Visual Studio Code.
 2. Go to `File` > `Preferences` > `User Snippets`.
@@ -54,12 +57,11 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-
-### C++ Boilerplate	
+### C++ Boilerplate
 
 **File**: `cpp.json`
 
-```json	
+```json
 {
 	"boilerplate": {
 		"prefix": "@",
@@ -96,3 +98,16 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 		"description": "Basic Java Main class boilerplate"
 	}
 }
+```
+
+## VS Code Extensions
+
+To enhance your development experience, consider installing the following Visual Studio Code extensions:
+
+- **C/C++**: Provides IntelliSense, debugging, and code browsing for C and C++.
+- **Java Extension Pack**: Includes essential Java extensions such as Language Support for Java, Debugger for Java, and Maven for Java.
+
+These extensions can improve productivity by offering features like code suggestions, debugging support, and more.
+
+---
+
