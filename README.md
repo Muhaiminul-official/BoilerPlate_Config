@@ -85,19 +85,20 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 **File**: `java.json`
 
 ```json
-{
 	"boilerplate": {
 		"prefix": "@",
 		"body": [
+			"import java.util.*;",
+			"import static java.lang.Math.*;",
+			"",
 			"public class ${1:Main} {",
 			"    public static void main(String[] args) {",
 			"        $2",
 			"    }",
 			"}"
 		],
-		"description": "Basic Java Main class boilerplate"
+		"description": "Basic Java Main class boilerplate with imports"
 	}
-}
 ```
 
 ##  VS Code Extensions
