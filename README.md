@@ -1,7 +1,7 @@
 
 ---
 
-# Boilerplate Configurations
+# Boilerplate Configurations for VS Code
 
 This repository contains boilerplate configurations for various programming languages to help you quickly set up new projects.
 
@@ -35,7 +35,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 
 ## Configurations
 
-### C Boilerplate
+### । C Boilerplate ।
 
 **File**: `c.json`
 
@@ -57,7 +57,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-### C++ Boilerplate
+### । C++ Boilerplate ।
 
 **File**: `cpp.json`
 
@@ -80,7 +80,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-### Java Boilerplate
+### । Java Boilerplate ।
 
 **File**: `java.json`
 
@@ -100,11 +100,12 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 }
 ```
 
-## VS Code Extensions
+## 🛠 VS Code Extensions
 
 To enhance your development experience, consider installing the following Visual Studio Code extensions:
 
-- **C/C++**: Provides IntelliSense, debugging, and code browsing for C and C++.
+- **C/C++ Extension Pack**: Provides IntelliSense, debugging, and code browsing for C and C++.
+- **Code Runner**: Runs code snippets in the terminal.
 - **Java Extension Pack**: Includes essential Java extensions such as Language Support for Java, Debugger for Java, and Maven for Java.
 
 These extensions can improve productivity by offering features like code suggestions, debugging support, and more.
