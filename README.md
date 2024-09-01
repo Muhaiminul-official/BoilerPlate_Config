@@ -67,6 +67,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 		"prefix": "@",
 		"body": [
 			"#include <iostream>",
+			"#include <string>",
 			"using namespace std;",
 			"",
 			"int main()",
@@ -85,7 +86,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 **File**: `java.json`
 
 ```json
-	{
+{
 	"boilerplate": {
 		"prefix": "@",
 		"body": [
@@ -100,7 +101,7 @@ Once the snippets are added, you can trigger them by typing the prefix (e.g., `@
 		],
 		"description": "Basic Java Main class boilerplate with imports"
 	  }
-      }
+}
 
 ```
 
